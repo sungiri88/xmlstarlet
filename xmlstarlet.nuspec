@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
-    <id>xmlstarlet</id>
+    <id>xmlstarlet.portable</id>
     <version>1.6.1</version>
     <title>xmlstarlet (Install)</title>
     <authors>Ferguson</authors>
