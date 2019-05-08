@@ -1,5 +1,5 @@
 ﻿try {
-  $package = 'xmlstarlet'
+  $package = 'xmlstarlet.portable'
   $PackageVersion = "1.6.1"
   $toolsDir       = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
   $filename       = 'xmlstarlet-1.6.1-win32.zip'
